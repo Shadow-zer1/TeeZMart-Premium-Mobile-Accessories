@@ -98,7 +98,7 @@ The architectural focus centers strictly on raw page speed, mobile-first usabili
 **Ali Javaid** *Frontend Developer | UI Designer | E-Commerce Developer*
 
 Let's connect or collaborate on your next project!
-* 🗂️ **Portfolio:** [alijavaid.netlify.app](https://alijavaid.qzz.io)
+* 🗂️ **Portfolio:** [alijavaid.qzz.io](https://alijavaid.qzz.io)
 * 🐙 **GitHub:** [@Shadow-zer1](https://github.com/Shadow-zer1)
 
 ---
