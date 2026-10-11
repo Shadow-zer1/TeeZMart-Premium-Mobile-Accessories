@@ -118,7 +118,7 @@ const Footer: React.FC = () => {
             <Heart size={14} className="text-blue-500 fill-blue-500 inline mx-1" />
             by
             <a
-              href="https://shadowworks.netlify.app"
+              href="https://alijavaid.qzz.io"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-primary transition-colors font-bold ml-1"
